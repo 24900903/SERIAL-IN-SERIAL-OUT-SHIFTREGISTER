@@ -50,7 +50,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
             shift_reg <= {shift_reg[2:0], si}; // Shift left and add new bit
         end
     end
-endmodule```
+    endmodule```
 
 
 **RTL LOGIC FOR SISO Shift Register**
